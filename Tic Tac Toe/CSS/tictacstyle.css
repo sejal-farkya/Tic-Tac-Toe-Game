@@ -1,0 +1,31 @@
+body{
+    background-color: plum;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+.notification{
+    height: 10vh;
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.board{
+    width: 550px;
+    height: 550px;
+}
+.row{
+    height: 30%;
+}
+.col{
+    height: 100%;
+    width: 30%;
+    border: 2px solid black;
+    float: left;
+    text-align: center;
+    font-size: 100px;
+    color: black;
+    cursor: pointer;
+}
